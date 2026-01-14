@@ -22,7 +22,7 @@ tf_path : str = "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/t
 
 """ FUNCTIONS """
 
-# main one
+# main one 
 def Main() -> None:
     system("cls")
 
