@@ -18,7 +18,7 @@ from json import load, dump
 COMMAND : str = 'tf_mainmenu_match_panel_type "8"\n'
 
 # changeable
-tf_path : str = "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2s/tf/cfg/config.cfg"
+tf_path : str = "C:/Program Files (x86)/Steam/steamapps/common/Team Fortress 2/tf/cfg/config.cfg"
 
 """ FUNCTIONS """
 
